@@ -1,1 +1,5 @@
 [1218/114025.338:ERROR:registration_protocol_win.cc(107)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1218/115436.874:ERROR:registration_protocol_win.cc(107)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1218/115437.182:ERROR:registration_protocol_win.cc(107)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1218/115438.203:ERROR:registration_protocol_win.cc(107)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1218/115438.454:ERROR:registration_protocol_win.cc(107)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
